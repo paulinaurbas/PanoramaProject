@@ -5,7 +5,7 @@ Learning OpenCV with C++ and stiching input images
 
 
 Input 
-![1](https://user-images.githubusercontent.com/32485281/43775941-a7bc7c24-9a4e-11e8-95f4-9f3166605753.jpg)
+<img width="1249" alt="zrzut ekranu 2018-08-07 o 14 36 50" src="https://user-images.githubusercontent.com/32485281/43776206-6730ef22-9a4f-11e8-8543-12315e6e1552.png">
 
 
 Output 
