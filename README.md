@@ -1,5 +1,4 @@
 # PanoramaProject
-# PanoramaProject
 
 Learning OpenCV with C++ and stiching input images 
 
@@ -9,8 +8,7 @@ Input
 
 
 Output 
-
-
+![result](https://user-images.githubusercontent.com/32485281/43776271-979fdaec-9a4f-11e8-9905-8b2c8458d8bb.jpg)
 
 
 
